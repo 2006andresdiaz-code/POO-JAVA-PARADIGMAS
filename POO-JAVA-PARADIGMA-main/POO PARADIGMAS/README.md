@@ -10,7 +10,7 @@ Programación Orientada a Objetos en Java.
 - 06-agregacion
 - 07-composicion
 ## Autor
-Cristihan Ballen    
+Andres Diaz 
 ## Objetivo
 Comprender y ejemplificar los principales paradigmas y relaciones de la POO
 mediante aplicaciones sencillas hechas en Java.
