@@ -1,0 +1,11 @@
+package d_polimorfismo_4.src;
+
+public class Perro extends Animal {
+
+    @Override
+    public void hacerSonido(){
+        System.out.println("El perro ladra");
+        
+    }
+    
+}
